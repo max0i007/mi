@@ -235,7 +235,7 @@ async function scrapeVideo(videoId) {
       "Accept-Language": "en-US,en;q=0.5",
       "Alt-Used": "zpjid.com",
       "Connection": "keep-alive",
-      "Cookie": "file_id=43620805; aff=40302; ref_url=animedub.pro; lang=1",
+      "Cookie": "file_id=43620805; aff=40302; ref_url=animedub.pro; lang=1; prefetchAd_9254409=true",
       "DNT": "1",
       "Host": "zpjid.com",
       "Sec-Fetch-Dest": "document",
